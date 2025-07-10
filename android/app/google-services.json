@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411091987638",
+    "project_id": "app-ventas-d67a5",
+    "storage_bucket": "app-ventas-d67a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411091987638:android:89c7e5691d25139fbe0a17",
+        "android_client_info": {
+          "package_name": "com.example.app_ventas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6af1iUbTCvqlF-UG2alETe96L3bKCVNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
